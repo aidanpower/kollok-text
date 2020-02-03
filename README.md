@@ -7,6 +7,7 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 
 Find out more [about Glitch](https://glitch.com/about).
 
+This is a text generator for Kollok 1991, a ttrpg by [Hyper Rabbit Power Go](https://www.twitch.tv/hyperrpg)! 
 
 TODO:
 -----
